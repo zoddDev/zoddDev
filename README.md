@@ -6,8 +6,8 @@
 <img src="https://image.myanimelist.net/ui/ogNrt6xjoxcgp7z0v_1Zi-h86qCak4gW6O4A9Q9fN9cfWruL0qDnD4EuQZ46upF0F-9O-HpAN1cgy0x7g9GWjCkWlqJmN2EugTlNVjdUlao"
     alt="berserk-gif" align="right" />
 
-- 💻 I’m currently studying **Software Engineering** - ⚗️ I’m currently learning
-**FastAPI, Android and Vue**
+- 💻 I’m currently studying **Software Engineering** 
+- ⚗️ I’m currently learning **FastAPI, Android and Vue**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">

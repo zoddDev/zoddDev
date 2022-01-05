@@ -51,3 +51,16 @@
              alt="bash" width="40" height="40" />
     </a>
 </p>
+
+
+<h3 align="left">Fav Operating Systems:</h3>
+<p align="left">
+    <a href="https://www.microsoft.com/es-es/software-download/windows11" target="_blank" rel="noreferrer">
+        <img src="https://i1.wp.com/architecnologia.es/wp-content/uploads/2019/10/microsoft-windows-logo.png?ssl=1"
+            alt="windows" width="40" height="40" />
+    </a>
+    <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"
+            alt="archlinux" width="40" height="40" />
+    </a>
+</p>

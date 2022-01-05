@@ -13,7 +13,13 @@
 <p align="left">
     <a href="https://www.linkedin.com/feed/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+            alt="https://www.linkedin.com/feed/" height="35" width="40" />
+    </a>
+    &nbsp;
+    <a href="https://www.reddit.com/user/zoddx" target="blank"><img align="center"
+            src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg"
+            alt="https://www.reddit.com/user/zoddx" height="40" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,7 +53,7 @@
              alt="fastapi" width="40" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        <img src="https://www.svgrepo.com/show/331488/mongodb.svg"
             alt="mongodb" width="40" height="40" />
     </a>
 </p>
@@ -57,10 +63,11 @@
 <p align="left">
     <a href="https://www.microsoft.com/es-es/software-download/windows11" target="_blank" rel="noreferrer">
         <img src="https://i1.wp.com/architecnologia.es/wp-content/uploads/2019/10/microsoft-windows-logo.png?ssl=1"
-            alt="windows" width="40" height="40" />
+            alt="windows" width="35" height="35" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"
-            alt="archlinux" width="40" height="40" />
+            alt="archlinux" width="35" height="35" />
     </a>
 </p>

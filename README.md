@@ -7,7 +7,7 @@
     alt="berserk-gif" align="right" />
 
 - 💻 I’m currently studying **Software Engineering** 
-- ⚗️ I’m currently learning **FastAPI, Android and Vue**
+- ⚗️ I’m currently learning **React and Express**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">

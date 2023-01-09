@@ -25,32 +25,52 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+        <img src="https://i.imgur.com/LZX6HFp.png" 
              alt="java" width="40" height="40" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
     </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"
+            alt="javascript" width="35" height="35"/>
+    </a>
     <a href="https://es.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer">
         <img src="https://lignux.com/wp-content/uploads/2018/06/bash2.png" 
              alt="bash" width="40" height="40" />
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+</p>
+
+<p align="left">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"
+            alt="bootstrap" width="40" height="35" />
     </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"
+            alt="tailwindcss" width="40" height="40" />
+    </a>
+</p>
+
+<p align="left">
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" 
-             alt="fastapi" width="40" height="40" />
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40" />
+    </a>
+    <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
+        <img src="https://midu.dev/images/tags/node.png"
+            alt="nodejs" width="45" height="40" />
+    </a>
+    <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png"
+            alt="react" width="45" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/331488/mongodb.svg"

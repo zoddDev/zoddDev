@@ -102,4 +102,4 @@
 
 <hr/>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/zodd18?label=follow&style=social)](https://github.com/zodd18)
+[![GitHub zoddDev](https://img.shields.io/github/followers/zoddDev?label=follow&style=social)](https://github.com/zoddDev)

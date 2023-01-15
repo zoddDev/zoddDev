@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-    <h3 align="center">Languages and Tools:</h3>
+    <h3 align="center">Languages and technologies:</h3>
     <p align="center">
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
             <img src="https://i.imgur.com/LZX6HFp.png" 

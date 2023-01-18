@@ -34,4 +34,10 @@
 </div>
 <hr/>
 
+## Checkout my portfolio 📝
+
+[Take a look 👀](https://zodddev.netlify.app/)
+
+<hr/>
+
 [![GitHub zoddDev](https://img.shields.io/github/followers/zoddDev?label=follow&style=social)](https://github.com/zoddDev)

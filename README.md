@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Sierra</h1>
 <h3 align="center">
-    A passionate 💻 Software Engineering student from University of Málaga, Spain
+    A passionate 💻 Software Engineer from Málaga, Spain
 </h3>
 
 <div align="center">
